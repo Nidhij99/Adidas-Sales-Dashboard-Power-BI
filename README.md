@@ -2,6 +2,11 @@
 ## Problem Statement
 This project aims to analyze the sales performance of Adidas across various dimensions, including time (monthly sales trends), geography (regional and state-level sales), product categories, and retailer contributions. The primary objective is to understand sales dynamics, identify high-performing regions and products, and uncover insights that can inform Adidas's sales strategy to drive revenue growth and optimize profit margins.
 
+## Dashboard -
+
+![Adidas Project Snapshot](https://github.com/user-attachments/assets/9afc9439-19e8-4970-a09a-a6a12f011b08)
+
+
 ## Key Questions Analyzed
 ### 1. What is the total sales performance of Adidas in terms of units sold and revenue generated?
 Analyze overall sales metrics, including units sold, total sales, average price per unit, operating margin, and operating profit.
